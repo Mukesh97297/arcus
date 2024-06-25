@@ -17,7 +17,7 @@ const TeamMeat = () => {
                 What you need is a team to support you with <b>all of it.</b>{" "}
                 Want to meet the people behind the strategy and the numbers?
               </p>
-              <h2 className="pb-2 flex flex-col font-bold sm:text-lg text-sm text-midnight font-montserrat tracking-20p relative group capitalize">
+              <h2 className="pb-2 flex flex-col font-bold text-lg text-midnight font-montserrat tracking-20p relative group capitalize">
                 meet the team
                 <span>
                   <UnderLine className="h-[6px] w-[185px]" />

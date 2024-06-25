@@ -1,7 +1,7 @@
 export const menuItems = [
-  { label: "Home", href: "/home" },
-  { label: "how we work", href: "/how we work" },
-  { label: "GET started", href: "/GET started" },
+  { label: "Home", href: "/" },
+  { label: "how we work", href: "/" },
+  { label: "GET started", href: "/" },
 ];
 export const cardsData = [
   {

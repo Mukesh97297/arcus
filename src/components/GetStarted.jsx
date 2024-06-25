@@ -19,7 +19,7 @@ const GetStarted = () => {
               <p className="sm:text-lg text-sm font-normal text-midnight font-quattrocento">
                 Are you ready? Because we are. 
               </p>
-              <a className="pb-2 flex flex-col font-bold sm:text-lg text-sm text-midnight font-montserrat tracking-20p relative group">
+              <a className="pb-2 flex flex-col font-bold text-lg text-midnight font-montserrat tracking-20p relative group">
                 Get started{" "}
                 <span>
                   <UnderLine className="h-[6px] w-[130px]" />

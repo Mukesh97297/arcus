@@ -10,7 +10,7 @@ const SheHowWe = () => {
     <>
       <section className="max-w-[1164px] w-full mx-auto px-4 space-y-12 mt-12">
         <div className="flex justify-center">
-          <h2 className="pb-2 flex flex-col font-bold sm:text-lg text-sm text-midnight font-montserrat tracking-20p relative group capitalize">
+          <h2 className="pb-2 flex flex-col font-bold text-lg text-midnight font-montserrat tracking-20p relative group capitalize">
             see how we do it{" "}
             <span>
               <UnderLine className="h-[6px] w-[210px]" />

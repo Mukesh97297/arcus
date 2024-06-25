@@ -1,9 +1,8 @@
 import React from "react";
-import Sidebar from "../common/Header";
 
 const Hero = () => {
   return (
-    <section className="relative flex items-center justify-center w-full h-[880px]">
+    <section className="relative flex items-center justify-center w-full h-screen">
       <img
         src="/images/homepage.png"
         alt="Hero Background"

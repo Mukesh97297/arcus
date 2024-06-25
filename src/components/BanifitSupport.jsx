@@ -15,6 +15,7 @@ const BanifitSupport = () => {
         </h1>
       </div>
       <div className="relative flex items-center justify-center max-h-[521px] w-full h-full">
+        <span className="bg-coral h-14 w-6 absolute top-14 lg:block hidden -z-30 -left-4"></span>
         <img
           src="/images/imagery.png"
           alt="Hero Background"
